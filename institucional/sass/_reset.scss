@@ -1,0 +1,15 @@
+/// Reset
+
+@mixin box-sizing($box) {
+    -webkit-box-sizing: $box;
+    -moz-box-sizing: $box;
+    -ms-box-sizing: $box;
+    -o-box-sizing: $box;
+    box-sizing: $box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    @include box-sizing(border-box);
+}
