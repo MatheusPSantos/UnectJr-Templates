@@ -1,6 +1,6 @@
 *.gem
 .sass-cache
-
+.css.map
 
 # OS or Editor folders
 ._*
