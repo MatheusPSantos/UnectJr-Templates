@@ -1,5 +1,5 @@
 <p align="center">
-	< a href="http://unect.com.br">
+	<a href="http://unect.com.br">
 		<img src="https://github.com/MatheusPSantos/templatesAwsome/blob/master/docs/UnectJr-solid.svg" alt="" width=75 height=75>
 	</a>
 </p>
