@@ -8,7 +8,7 @@
 	Empresa Júnior de Análise e Desenvolvimento de Sistemas, Engenharia de Computação e Engenharia de Software da UTFPR-CP.
 </p>
 
-## templatesAwsome
+## UnectJr-Templates
 
 #### Repositório de templates prontos para sites institucionais, para divulgação de eventos ou de projetos a ser usado pela Unect Jr.
 
