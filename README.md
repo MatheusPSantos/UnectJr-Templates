@@ -8,11 +8,11 @@
 |------ README.md
 |------ LICENSE
 |------ Template 1
-	|------ Arquivos do template 1
+	|------ Arquivos \do template 1
 |------ Template 2
-	|------ Arquivos do template 2
+	|------ Arquivos \do template 2
 |------ Template 3
-	|------ Arquivos do template 3
+	|------ Arquivos \do template 3
 
 ...
 ```	
