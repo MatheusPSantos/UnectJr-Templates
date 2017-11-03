@@ -7,9 +7,14 @@
 ``` bash
 |------ README.md
 |------ LICENSE
-|------ Templates
-		|------ Arquivos de cada Template
-	
+|------ Template 1
+	|------ Arquivos do template 1
+|------ Template 2
+	|------ Arquivos do template 2
+|------ Template 3
+	|------ Arquivos do template 3
+
+...
 ```	
 
 #### Para contribuir
