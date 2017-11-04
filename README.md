@@ -16,14 +16,14 @@
 
 ```
 UnectJr-Templates/
-├──README.md
-├──LICENSE
+├── README.md
+├── LICENSE
 ├── docs/
 ├── Template 1/
 |	├── Arquivos (index.html, dentre outros)
-├──Template 2/
+├── Template 2/
 |	├── Arquivos (index.html, dentre outros)
-├──Template 3/
+├── Template 3/
 |	├── Arquivos (index.html, dentre outros)
 |
 |   ...
