@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="http://unect.com.br">
-		<img src="https://github.com/MatheusPSantos/templatesAwsome/blob/master/docs/unect-solid.png" alt="" width=93 heigth=120>
+		<img src="./docs/unect-solid.png" alt="" width=93 heigth=120>
 	</a>
 </p>
 
